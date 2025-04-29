@@ -4,7 +4,7 @@
 
 ## Hook and Rubric Documents
 
-The hook document describing the case study is titled [CS3Hook_SnakeClassification.pdf](url). [CS3Rubric_SnakeClassification.pdf](url) describes the format, submission, and final deliverable requirements of this assignment. Both files should be consulted and looked at throughout the case study’s completion so that all requirements are achieved satisfactorily, and for your own help!
+The hook document describing the case study is titled https://github.com/ColeAnderson2002/CS3_DS4002/blob/main/CS3_Hook.pdf. The rubric, https://github.com/ColeAnderson2002/CS3_DS4002/blob/main/CS3_Rubric.pdf describes the format, submission, and final deliverable requirements of this assignment. Both files should be consulted and looked at throughout the case study’s completion so that all requirements are achieved satisfactorily, and for your own help!
 
 ## Data
 
