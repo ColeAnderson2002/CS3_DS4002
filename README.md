@@ -1,5 +1,5 @@
-# Venomous Snake Classification
-## A Case Study on Venomous and Non-Venomous Snakes (DS4002 CS3)
+# Snake Classification
+## A Case Study on Classifying Venomous and Non-Venomous Snakes (DS4002 CS3)
 ![download](https://github.com/user-attachments/assets/05a3e46f-0575-4f68-8a2a-1923625317f7)
 ![download-2](https://github.com/user-attachments/assets/c9366eaa-ffcc-4a49-abe8-7a28e6054375)
 ![download-1](https://github.com/user-attachments/assets/6e81c585-fb00-444c-9db7-bf6bb5507f86)
