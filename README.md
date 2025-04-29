@@ -14,8 +14,8 @@
 
 - Data is from [images.cv](https://images.cv/), where you can look up various images publicly stored online, and download them for your own use.
 - The folder [Materials] contains the following:
--   Contains a blog-style explainer, MobileNetV2 guide, and dataset reference info.
--   Get_Started_Code folder has some early Python scripts to upload, organize, and begin basic EDA on the snake image data, and get everything going for you.
+  - Contains a blog-style explainer, MobileNetV2 guide, and dataset reference info.
+  - Get_Started_Code folder has some early Python scripts to upload, organize, and begin basic EDA on the snake image data, and get everything going for you.
 
 ## Reference Materials
 Below are helpful resources to reference throughout your project.
