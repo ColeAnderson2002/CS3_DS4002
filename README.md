@@ -11,26 +11,26 @@ The hook document describing the case study is titled https://github.com/ColeAnd
 ## Reference Materials
 Below are helpful resources to reference throughout your project.
 
-“A Guide to Identify Venomous Snakes in North America,” Animal Care, [Online].
+- “A Guide to Identify Venomous Snakes in North America,” Animal Care, [Online].
 Available: https://animal-care.com/blog/a-guide-to-identify-venomous-snakes-in-north-america/
 
-Centers for Disease Control and Prevention, "Venomous Snakes at Work," NIOSH, [Online].
+- Centers for Disease Control and Prevention, "Venomous Snakes at Work," NIOSH, [Online].
 Available: https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html 
 
-University of California, Berkeley, "CalPhotos," [Online]. Available:
+- University of California, Berkeley, "CalPhotos," [Online]. Available:
 https://calphotos.berkeley.edu/
 
-images.cv, "Search labeled image datasets," [Online]. Available:
+- images.cv, "Search labeled image datasets," [Online]. Available:
 https://images.cv/search-labeled-image-dataset
 
-TensorFlow, “Load and preprocess images,” [Online]. Available:
+- TensorFlow, “Load and preprocess images,” [Online]. Available:
 https://www.tensorflow.org/tutorials/load_data/images
 
-Sharma, Nikita, “What is MobileNetV2? Features, Architecture, Application and More”
+- Sharma, Nikita, “What is MobileNetV2? Features, Architecture, Application and More”
 Analytics Vidhya, [Online]. Available:
 https://www.analyticsvidhya.com/blog/2023/12/what-is-mobilenetv2/
 
-M. Huang, "Image Recognition with CNNs: Improving Accuracy and Efficiency," Medium,
+- M. Huang, "Image Recognition with CNNs: Improving Accuracy and Efficiency," Medium,
 Mar. 2024. [Online]. Available:
 https://medium.com/@mitchhuang777/image-recognition-with-cnns-improving-accuracy-and-eff
 iciency-dd347b636e0c
