@@ -10,7 +10,12 @@
 - The rubric, located here: https://github.com/ColeAnderson2002/CS3_DS4002/blob/main/CS3_Rubric.pdf describes the format, submission, and final deliverable requirements of this assignment.
 - Both files should be consulted and looked at throughout the case study’s completion so that all requirements are achieved satisfactorily, and for your own help!
 
-## Data
+## Data and Materials Folder
+
+- Data is from [images.cv](https://images.cv/), where you can look up various images publicly stored online, and download them for your own use.
+- The folder [Materials] contains the following:
+-   Contains a blog-style explainer, MobileNetV2 guide, and dataset reference info.
+-   Get_Started_Code folder has some early Python scripts to upload, organize, and begin basic EDA on the snake image data, and get everything going for you.
 
 ## Reference Materials
 Below are helpful resources to reference throughout your project.
