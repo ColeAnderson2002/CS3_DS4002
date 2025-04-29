@@ -1,8 +1,8 @@
-## Venomous Snake Classification
+# Venomous Snake Classification
 A Case Study on Venomous and Non-Venomous Snakes (DS4002 CS3)
 
-# Hook and Rubric Documents
+## Hook and Rubric Documents
 
-# Data
+## Data
 
-# Reference Materials
+## Reference Materials
